@@ -13,7 +13,7 @@ Invoice data covers **2021 to 2025**.
 - What is the total revenue, number of orders, and average order value?
 - How many customers are Active vs Churned (no purchase in the last 365 days)?
 - What percentage of customers are repeat buyers?
-- How does revenue change month by month in 2024?
+- How does revenue change month by month ?
 
 ## Key Results
 | Metric | Value |
